@@ -1,13 +1,13 @@
 #SASS Architecture
 
-sass/
-|
-|– abstracts/
-|   |– _variables.scss    # Sass Variables
-|   |– _functions.scss    # Sass Functions
-|   |– _mixins.scss       # Sass Mixins
-|   |– _placeholders.scss # Sass Placeholders
-|
+sass/<br />
+|<br />
+|– abstracts/<br />
+|   |– _variables.scss    # Sass Variables<br />
+|   |– _functions.scss    # Sass Functions<br />
+|   |– _mixins.scss       # Sass Mixins<br />
+|   |– _placeholders.scss # Sass Placeholders<br />
+|<br />
 |– base/
 |   |– _reset.scss        # Reset/normalize
 |   |– _typography.scss   # Typography rules
