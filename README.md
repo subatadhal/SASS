@@ -48,7 +48,8 @@ sass/
 
 
 #Template Architecture
-bootstrap/
+
+template/
 ├── images/
 ├── assets/
 │   ├── sass/
